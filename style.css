@@ -83,7 +83,7 @@ a {
 .logo img {
 
     width: 90px;
-    height: auto;
+    height: 60px;
     object-fit: contain;
 
 }
